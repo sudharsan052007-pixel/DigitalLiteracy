@@ -1,0 +1,32 @@
+Case Study: UPI/Online Payment Fraud
+Cybercrime Type: UPI and Online Payment Fraud
+Scenario Type: Realistic Fictional Scenario (based on widely reported fraud patterns in India)
+Prepared by: Student Digital Ambassador
+
+Background
+UPI (Unified Payments Interface) fraud has become one of the fastest-growing cybercrimes in India. According to the Indian Cybercrime Coordination Centre (I4C), over 95,000 UPI-related fraud complaints were registered on the National Cyber Crime Portal in 2023 alone. College students — new to financial independence and frequently transacting on apps like PhonePe, Google Pay, and Paytm — are among the most targeted groups.
+
+Case Study: The "Collect Request" Trap
+Scenario
+Rohan, a 20-year-old engineering student in Pune, listed his old laptop for sale on OLX for ₹18,000. Within hours, he received a WhatsApp message from someone claiming to be an Army officer posted in Rajasthan, saying he urgently needed the laptop and would pay immediately via Google Pay.
+The buyer said: "I am sending ₹18,000 right now. Please accept the request on your Google Pay."
+Rohan received a notification on Google Pay — it appeared to be a payment request. Believing it was incoming money, he entered his UPI PIN to "accept" it.
+Within seconds, ₹18,000 was debited from his account. The buyer's number went unreachable.
+
+How It Happened — Step by Step
+
+Target identification — The fraudster searched OLX/Quikr for student sellers with high-value listings.
+Establishing trust — Posed as a credible, sympathetic figure (Army officer, NRI, doctor) to lower suspicion.
+Creating urgency — Claimed to be buying remotely and needed immediate transfer, leaving no time for careful thought.
+The deceptive request — Sent a UPI Collect Request (a debit request) instead of a payment, which looks similar to a payment notification on screen.
+Social engineering — Coached the victim to "enter your PIN to receive the money," exploiting the misconception that a PIN is needed to receive funds.
+Execution — Victim entered PIN, authorising the debit. Money transferred instantly and irreversibly.
+Disappearance — Fraudster blocked all contact immediately after.
+
+
+Who Is Typically Targeted
+
+College students selling items on OLX, Facebook Marketplace, or Quikr
+First-time UPI users unfamiliar with the difference between send and receive flows
+Students seeking part-time work or freelance gigs online
+Anyone responding to "too good to be true" job offers or purchase inquiries
