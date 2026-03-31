@@ -80,7 +80,7 @@ Set up professional profiles on three platforms:
 
 | Platform | Purpose | Profile Link |
 |----------|---------|--------------|
-| **GitHub** | Code hosting, open source, project showcase | [github.com/Guruganesh337] (https://github.com/Guruganesh337) |
+| **GitHub** | Code hosting, open source, project showcase | https://github.com/sudharsan052007-pixel |
 | **LinkedIn** | Professional networking, internships, jobs | https://www.linkedin.com/in/ganesh-s-41089737b/ |
 | **Kaggle** | Data science practice, competitions, notebooks | https://www.kaggle.com/guruganeshs |
 
