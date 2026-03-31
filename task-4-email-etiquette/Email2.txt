@@ -1,0 +1,14 @@
+To: internships@techcorp.in
+From: sudharsan.25mei10121@student.university.ac.in
+Date: 26 March 2026
+Subject: Application for Summer Internship 2025 - Software Development
+Dear Internship Coordinator,
+My name is Sudharsan R , and I am a first-year student pursuing a Int.M.Tech Computer Science  Engineering & Cybersecurity ,VIT University, Bhopal. I am writing to express my strong interest in the Software Development Summer Internship opportunity at TechCorp, which I came across on your official website and LinkedIn page.
+I have a solid foundation in full-stack web development, with hands-on experience in Python, JavaScript, React, and REST APIs. Over the past year, I have worked on two independent projects - a task management web application and a real-time chat system - both of which are available on my GitHub profile. I am also an active contributor to an open-source project with over 200 commits.
+I am particularly drawn to TechCorp because of your team's focus on scalable cloud infrastructure and your commitment to mentoring early-career developers. I believe an internship with your organisation would allow me to grow significantly while contributing meaningfully to ongoing projects.
+I am available for a full-time internship from 1 June 2025 to 31 July 2025. I have attached my resume, academic transcript, and a link to my portfolio for your review. I would welcome the opportunity to discuss how my skills align with your team's needs.
+Thank you very much for your time. I look forward to hearing from you.
+Yours sincerely,
+Sudharsan R
+Int.M.Tech Computer Science  Engineering & Cybersecurity , Year 1
+VIT University, Bhopal | Reg.No : 25MEI10121
